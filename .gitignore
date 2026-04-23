@@ -1,0 +1,23 @@
+# Environments
+venv/
+env/
+.env
+
+# Cache
+__pycache__/
+*.pyc
+.DS_Store
+
+# Personal Data & Memory
+core/memory.json
+core/vector_db/
+core/test_db/
+core/rag_db/
+Jarvis-Brain/*
+
+# Ignore keeping the gitkeep in Brain folder so the folder pushes
+!Jarvis-Brain/.gitkeep
+
+# IDEs
+.vscode/
+.idea/

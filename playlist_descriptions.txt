@@ -1,0 +1,532 @@
+My AI - Shreshth Kaushik | How to make jarvis | jarvis python | how to make jarvis in python
+
+Join this channel to get access to perks:
+https://www.youtube.com/channel/UC7A5u12yVIZaCO_uXnNhc5g/join
+
+My Website :-
+https://kaushikshresth.graphy.com
+
+Follow Me On Instagram Link  🔗
+https://www.instagram.com/Jarvis4everyone/
+
+Join Our Telegram Channel 🔗
+https://t.me/theshreshthkaushik
+
+Tags:
+python jarvis,
+python ai assistant,
+jarvis ai,
+python iron man ai,
+python ai,
+python jarvis tutorial,
+python jarvis ai,
+python ai tutorial,
+iron man jarvis,
+how to make jarvis in python,
+how to create jarvis,
+how to get jarvis,
+jarvis python,
+jarvis in python,
+python voice assistant,
+how to make jarvis,
+how to make ai in python,
+python projects,
+jarvis using python,
+kaushik shresth,
+kaushik shresth jarvis,
+
+Related searches:-
+nasa python,python nasa,explore space using python,space exploration using python,how to make jarvis in python,how to make jarvis,jarvis python,jarvis ai python,python automation,nasa python automation,home automation python,nasa python,python nasa,explore space using python,space exploration using python,how to make jarvis in python,how to make jarvis,jarvis python,jarvis ai python,python automation,nasa python automation,home automation python,python,python project ideas,space news using python,space news python,python space,nasa api python,python nasa api,gui python,python gui,kaushik shresth,jarvis,python whatsapp,python tutorials,python Jarvis ai,kaushik shresth,jarvis python,jarvis in python,jarvis,jarvis using python,python whatsapp,how to make jarvis,how to make jarvis in python,python tutorials,python Jarvis,Jarvis python,Jarvis gui,Jarvis source code,avi Upadhyay,advance Jarvis Python
+______________________________________________________________________________________
+
+Copyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.
+Creating a Real Life Jarvis 🔥😎 ( One Shot ) | How To Make Jarvis | Jarvis Python | Shreshth Kaushik 
+
+My AI Jarvis Demo  🔗
+https://www.youtube.com/watch?v=CqSsGvg0Mls
+
+You can find all the Gist files at the link below:
+My GitHub Gist 🔗
+https://gist.github.com/KaushikShresth07
+
+Speech Recognition Detailed Video 🔗
+https://youtu.be/GE_tQl2MzpM
+
+Join this channel to get access to perks 🔗
+https://www.youtube.com/channel/UC7A5u12yVIZaCO_uXnNhc5g/join
+
+My Website 🔗
+https://www.theshreshthkaushik.com/
+
+Follow Me On Instagram Link  🔗
+https://www.instagram.com/theshreshthkaushik
+
+Python Notes PDF 🔗
+https://drive.google.com/file/d/1Gl7KFuYZ9MAI6qRuTcvGlQ5A_HvsV8jn/view?usp=sharing
+
+Follow Me On Instagram Link  🔗
+https://www.instagram.com/Jarvis4everyone/
+
+Join Our Telegram Channel 🔗
+https://t.me/theshreshthkaushik
+
+Tags:
+python jarvis,
+python ai assistant,
+jarvis ai,
+python iron man ai,
+python ai,
+python jarvis tutorial,
+python jarvis ai,
+python ai tutorial,
+iron man jarvis,
+how to make jarvis in python,
+how to create jarvis,
+how to get jarvis,
+jarvis python,
+jarvis in python,
+python voice assistant,
+how to make jarvis,
+how to make ai in python,
+python projects,
+jarvis using python,
+kaushik shresth,
+kaushik shresth jarvis,
+
+Related searches:-
+nasa python,python nasa,explore space using python,space exploration using python,how to make jarvis in python,how to make jarvis,jarvis python,jarvis ai python,python automation,nasa python automation,home automation python,nasa python,python nasa,explore space using python,space exploration using python,how to make jarvis in python,how to make jarvis,jarvis python,jarvis ai python,python automation,nasa python automation,home automation python,python,python project ideas,space news using python,space news python,python space,nasa api python,python nasa api,gui python,python gui,kaushik shresth,jarvis,python whatsapp,python tutorials,python Jarvis ai,kaushik shresth,jarvis python,jarvis in python,jarvis,jarvis using python,python whatsapp,how to make jarvis,how to make jarvis in python,python tutorials,python Jarvis,Jarvis python,Jarvis gui,Jarvis source code,avi Upadhyay,advance Jarvis Python
+______________________________________________________________________________________
+
+Copyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.
+J.A.R.V.I.S, But in Real Life 😱🔥😎 | Building the Most Advanced AI Assistant | Shreshth Kaushik 
+
+Join this channel to get access to perks 🔗
+https://www.youtube.com/channel/UC7A5u12yVIZaCO_uXnNhc5g/join
+
+My Website 🔗
+https://theshreshthkaushik.com
+
+Talk To My A.I Avatar 🔗
+https://www.theshreshthkaushik.com/talk/engagement
+
+Follow Me On Instagram Link  🔗
+https://www.instagram.com/theshreshthkaushik
+
+My AI Jarvis Demo  🔗
+https://www.youtube.com/watch?v=CqSsGvg0Mls
+
+Follow Me On Instagram Link  🔗
+https://www.instagram.com/Jarvis4everyone/
+
+Join Our Telegram Channel 🔗
+https://t.me/theshreshthkaushik
+
+
+What if J.A.R.V.I.S wasn't just from the movies—what if you could actually build one yourself?
+
+In this video, I'm kicking off my real-life J.A.R.V.I.S project: a super-smart, multi-language AI assistant I'm building from the ground up with today's best tech. This isn't some basic chatbot or off-the-shelf demo—it's a legit system that thinks, remembers, speaks, sees, and takes action like a true sidekick.
+
+This is the start of my "Most Advanced AI Assistant Tutorials" series on YouTube, where we'll build it together step by step.
+
+What we're diving into: We'll create a bunch of specialized AI "experts" (like mini-chatbots with specific jobs), then tie them into a central brain that reasons, makes decisions, and keeps everything in sync. Along the way, we'll tackle long-term memory with LangChain, super-fast multilingual voice recognition and synthesis, a smart task system so it acts on its own, vision capabilities for screens and images, and ways to run it across your local setup or servers—all structured with APIs for easy scaling.
+
+By the end, it'll be one seamless system: thinking, remembering, talking, seeing, and doing.
+
+And it's not just software. Once we nail the code, we'll integrate it into hardware—like smart speakers, glasses, or even robots. The dream is one AI brain that powers it all, no reinventing the wheel.
+
+Why am I doing this? J.A.R.V.I.S has been my obsession forever—not as sci-fi, but as a real build challenge. I want to crack it openly, no shortcuts, and share every step.
+
+Quick note: 2026 is all-in on YouTube for me. Expect steady, meaty tutorials that actually teach you to build, not just watch hype.
+
+This is for Python devs, AI tinkerers, students hungry for hands-on skills, or anyone ready to level up from simple bots.
+
+If you've dreamed of making your own J.A.R.V.I.S for real, hit subscribe and let's build it together. Can't wait to see you there!
+
+Tags:
+python jarvis,
+python ai assistant,
+jarvis ai,
+python iron man ai,
+python ai,
+python jarvis tutorial,
+python jarvis ai,
+python ai tutorial,
+iron man jarvis,
+how to make jarvis in python,
+how to create jarvis,
+how to get jarvis,
+jarvis python,
+jarvis in python,
+python voice assistant,
+how to make jarvis,
+how to make ai in python,
+python projects,
+jarvis using python,
+kaushik shresth,
+kaushik shresth jarvis,
+
+Related searches:-
+nasa python,python nasa,explore space using python,space exploration using python,how to make jarvis in python,how to make jarvis,jarvis python,jarvis ai python,python automation,nasa python automation,home automation python,nasa python,python nasa,explore space using python,space exploration using python,how to make jarvis in python,how to make jarvis,jarvis python,jarvis ai python,python automation,nasa python automation,home automation python,python,python project ideas,space news using python,space news python,python space,nasa api python,python nasa api,gui python,python gui,kaushik shresth,jarvis,python whatsapp,python tutorials,python Jarvis ai,kaushik shresth,jarvis python,jarvis in python,jarvis,jarvis using python,python whatsapp,how to make jarvis,how to make jarvis in python,python tutorials,python Jarvis,Jarvis python,Jarvis gui,Jarvis source code,avi Upadhyay,advance Jarvis Python
+______________________________________________________________________________________
+
+Copyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.
+Building the Most Advanced Chatbot System 🔥😎 | LangChain + Vector DB | Lecture 1 | Jarvis Python | Building the Most Advanced AI Assistant | Shreshth Kaushik 
+
+Subscribe to J4E Source Access for just ₹299/month,
+Jarvis4Everyone Link 🔗
+https://www.jarvis4everyone.com/
+
+Config.py file code 🔗
+https://gist.github.com/KaushikShresth07/f17a01594763df25a5f3115a929f8b06
+
+Test.py file code 🔗
+https://gist.github.com/KaushikShresth07/20a420ecfd0a262678b71054cb54b8a8
+
+Jarvis stylish title 🔗
+https://gist.github.com/KaushikShresth07/99e8c898c449d7b884dce9ed88d3becb
+
+Userdata example format 🔗
+https://gist.github.com/KaushikShresth07/b0d9e1c7e0a8dc1263299ef57a4b80d5
+
+More data example format 🔗
+https://gist.github.com/KaushikShresth07/b0d9e1c7e0a8dc1263299ef57a4b80d5
+
+Readme documentation file 🔗
+https://gist.github.com/KaushikShresth07/fe0c7af6b700c183c257f65a62aa84de
+
+--------------------------------------------
+
+Requirements.txt :
+
+fastapi
+uvicorn[standard]
+langchain
+langchain-groq
+langchain-community
+langchain-core
+sentence-transformers
+faiss-cpu
+python-dotenv
+pydantic
+numpy
+torch
+transformers
+requests
+rich
+tavily-python
+cohere
+langchain-huggingface
+
+--------------------------------------------
+
+JARVIS/
+│
+├── app/
+│   ├── __init__.py
+│   ├── main.py              → FastAPI application & API endpoints
+│   ├── models.py            → Pydantic data models
+│   │
+│   ├── services/
+│   │   ├── __init__.py
+│   │   ├── chat_service.py      → Session & conversation management
+│   │   ├── groq_service.py      → Core LLM chat service
+│   │   ├── realtime_service.py  → Realtime chat with web search
+│   │   └── vector_store.py      → FAISS vector store & embeddings
+│   │
+│   └── utils/
+│       ├── __init__.py
+│       └── time_info.py     → Current date & time utilities
+│
+├── database/
+│   ├── learning_data/       → User learning data (.txt files)
+│   │   ├── userdata.txt        → Auto-loaded personal data
+│   │   ├── system_context.txt  → Auto-loaded system context
+│   │   └── *.txt               → Additional auto-loaded files
+│   │
+│   ├── chats_data/          → Stored conversations (.json)
+│   └── vector_store/        → FAISS index storage
+│
+├── config.py                → Global configuration & settings
+├── run.py                   → Server startup script
+├── test.py                  → CLI testing interface
+├── requirements.txt         → Python dependencies
+└── README.md                → Project documentation
+
+--------------------------------------------
+
+Follow Me On Instagram Link  🔗
+https://www.instagram.com/theshreshthkaushik
+
+My Website 🔗
+https://theshreshthkaushik.com
+
+Talk To My A.I Avatar 🔗
+https://www.theshreshthkaushik.com/talk/engagement
+
+Follow J4E on Instagram  🔗
+https://www.instagram.com/Jarvis4everyone/
+
+Join Our Telegram Channel 🔗
+https://t.me/theshreshthkaushik
+
+Tags:
+python jarvis,
+python ai assistant,
+jarvis ai,
+python iron man ai,
+python ai,
+python jarvis tutorial,
+python jarvis ai,
+python ai tutorial,
+iron man jarvis,
+how to make jarvis in python,
+how to create jarvis,
+how to get jarvis,
+jarvis python,
+jarvis in python,
+python voice assistant,
+how to make jarvis,
+how to make ai in python,
+python projects,
+jarvis using python,
+kaushik shresth,
+kaushik shresth jarvis,
+
+Related searches:-
+nasa python,python nasa,explore space using python,space exploration using python,how to make jarvis in python,how to make jarvis,jarvis python,jarvis ai python,python automation,nasa python automation,home automation python,nasa python,python nasa,explore space using python,space exploration using python,how to make jarvis in python,how to make jarvis,jarvis python,jarvis ai python,python automation,nasa python automation,home automation python,python,python project ideas,space news using python,space news python,python space,nasa api python,python nasa api,gui python,python gui,kaushik shresth,jarvis,python whatsapp,python tutorials,python Jarvis ai,kaushik shresth,jarvis python,jarvis in python,jarvis,jarvis using python,python whatsapp,how to make jarvis,how to make jarvis in python,python tutorials,python Jarvis,Jarvis python,Jarvis gui,Jarvis source code,avi Upadhyay,advance Jarvis Python
+______________________________________________________________________________________
+
+Copyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.
+02 - Integrating the Frontend in JARVIS - Creating the most advances AI Assistant | Jarvis Python |
+
+Access the latest & complete source code of J.A.R.V.I.S 🔗
+https://www.jarvis4everyone.com/
+
+Follow Me On Instagram Link  🔗
+https://www.instagram.com/theshreshthkaushik
+
+Join Our Telegram Channel 🔗
+https://t.me/theshreshthkaushik
+
+My Website 🔗
+https://theshreshthkaushik.com
+
+Talk To My A.I Avatar 🔗
+https://www.theshreshthkaushik.com/talk/engagement
+
+--------------------------------------------
+
+All the Important links are here 🔗
+
+Subscribe to J4E Source Access for just ₹299/month,
+Jarvis4Everyone Link 🔗
+https://www.jarvis4everyone.com/
+
+My GIST Profile
+https://gist.github.com/KaushikShresth07
+
+.env.example
+https://gist.github.com/KaushikShresth07/352a919999797b9c8b1620d6ed840625
+
+Config.py
+https://gist.github.com/KaushikShresth07/41380960cd4215dae438077b2f10f12c
+
+Index.html
+https://gist.github.com/KaushikShresth07/037cad9ce160a79c96aca13c626baad5
+
+Orb.js
+https://gist.github.com/KaushikShresth07/09b2a40d6fe51bd95ef22025bd44a89b
+
+Script.js
+https://gist.github.com/KaushikShresth07/9ed9361c7852f1ef5ef73f540cb46208
+
+Style CSS
+https://gist.github.com/KaushikShresth07/e4e6c6697450402e9e028017f30de318
+
+README.md
+https://gist.github.com/KaushikShresth07/97475d5178d29b12f84c45945f9858e7
+
+--------------------------------------------
+
+Requirements.txt :
+
+fastapi
+uvicorn[standard]
+langchain
+langchain-groq
+langchain-community
+langchain-core
+sentence-transformers
+faiss-cpu
+python-dotenv
+pydantic
+numpy
+torch
+transformers
+requests
+rich
+tavily-python
+cohere
+langchain-huggingface
+edge-tts
+
+
+--------------------------------------------
+
+Project Structure :
+
+JARVIS/
+├── frontend/                    # Web UI (vanilla HTML/CSS/JS, no build tools)
+│   ├── index.html               # Single-page app structure
+│   ├── style.css                # Dark glass-morphism theme, responsive
+│   ├── script.js                # Chat logic, SSE streaming, TTS player, voice input
+│   └── orb.js                   # WebGL animated orb renderer (GLSL shaders)
+│
+├── app/                         # Backend (FastAPI)
+│   ├── __init__.py
+│   ├── main.py                  # FastAPI app, all endpoints, inline TTS, SSE streaming
+│   ├── models.py                # Pydantic models (ChatRequest, ChatResponse, etc.)
+│   ├── services/
+│   │   ├── __init__.py
+│   │   ├── chat_service.py      # Session management, message storage, disk persistence
+│   │   ├── groq_service.py      # General chat: LangChain + Groq LLM + multi-key fallback
+│   │   ├── realtime_service.py  # Realtime chat: query extraction + Tavily search + Groq
+│   │   └── vector_store.py      # FAISS vector index, embeddings, semantic retrieval
+│   └── utils/
+│       ├── __init__.py
+│       ├── retry.py             # Retry with exponential backoff (for API calls)
+│       └── time_info.py         # Current date/time for the system prompt
+│
+├── database/                    # Auto-created on first run
+│   ├── learning_data/           # Your .txt files (personal info, preferences, etc.)
+│   ├── chats_data/              # Saved conversations as JSON
+│   └── vector_store/            # FAISS index files
+│
+├── config.py                    # All settings: API keys, paths, system prompt, TTS config
+├── run.py                       # Entry point: python run.py
+├── requirements.txt             # Python dependencies
+├── .env                         # Your API keys (not committed to git)
+└── README.md                    # This file
+
+--------------------------------------------
+
+Tags:
+python jarvis,
+python ai assistant,
+jarvis ai,
+python iron man ai,
+python ai,
+python jarvis tutorial,
+python jarvis ai,
+python ai tutorial,
+iron man jarvis,
+how to make jarvis in python,
+how to create jarvis,
+how to get jarvis,
+jarvis python,
+jarvis in python,
+python voice assistant,
+how to make jarvis,
+how to make ai in python,
+python projects,
+jarvis using python,
+kaushik shresth,
+kaushik shresth jarvis,
+
+Related searches:-
+python automation,nasa python automation,home automation python,python,python project ideas,space news using python,space news python,python space,nasa api python,python nasa api,gui python,python gui,kaushik shresth,jarvis,python whatsapp,python tutorials,python Jarvis ai,kaushik shresth,jarvis python,jarvis in python,jarvis,jarvis using python,python whatsapp,how to make jarvis,how to make jarvis in python,python tutorials,python Jarvis,Jarvis python,Jarvis gui,Jarvis source code,avi Upadhyay,advance Jarvis Python
+
+______________________________________________________________________________________
+
+Copyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.
+03 - Jarvis Can See, Run Multiple Tasks & Perform Automation Like a Pro | Fast, Accurate & Free 🤯🔥
+
+Subscribe to J4E Source Access for just ₹299/month,
+Jarvis4Everyone Link 🔗
+https://www.jarvis4everyone.com/
+
+My Gist Profile 🔗
+https://gist.github.com/KaushikShresth07
+
+Brain Service Python File Gist 🔗
+https://gist.github.com/KaushikShresth07/37ecffe2dc153e984c47950509502d51
+
+Index HTML File Gist 🔗
+https://gist.github.com/KaushikShresth07/9a6a68869f50d50e2d3cc4b622f6967c
+
+ORB JS File Gist 🔗
+https://gist.github.com/KaushikShresth07/e6a5727f48a6192501c685fe5cff4fb5
+
+Script JS File Gist 🔗
+https://gist.github.com/KaushikShresth07/ad1b3659136d7ecf3e4777c0210c68d3
+
+Style CSS File Gist 🔗
+https://gist.github.com/KaushikShresth07/678f480a8c52a3b6b8fc5ea230fd756d
+
+Viewer HTML File Gist 🔗
+https://gist.github.com/KaushikShresth07/a9837995c3e43a1ad4de50f30ee173cf
+
+Vision Prompt Gist Link 🔗
+https://gist.github.com/KaushikShresth07/800cdadb4b24722ca15d09eec55ab4d6
+
+Readme.MD File Gist 🔗
+https://gist.github.com/KaushikShresth07/f80156920ff2aa122cf7e54677986adb
+
+Requirements.txt File Gist 🔗
+https://gist.github.com/KaushikShresth07/069e6bef5092e86913c1ca3282533cd8
+
+Run.py Python File Gist 🔗
+https://gist.github.com/KaushikShresth07/e15fccfc1d0da828587d4bfc79ad2100
+
+Config.py Python File Gist 🔗
+https://gist.github.com/KaushikShresth07/396193cd1567bc3fbfdc1c3ba0a84369
+
+Jarvis stylish title 🔗
+https://gist.github.com/KaushikShresth07/99e8c898c449d7b884dce9ed88d3becb
+
+Follow Me On Instagram Link  🔗
+https://www.instagram.com/theshreshthkaushik
+
+My Website 🔗
+https://theshreshthkaushik.com
+
+Talk To My A.I Avatar 🔗
+https://www.theshreshthkaushik.com/talk/engagement
+
+Follow J4E on Instagram  🔗
+https://www.instagram.com/Jarvis4everyone/
+
+Join Our Telegram Channel 🔗
+https://t.me/theshreshthkaushik
+
+Join Our Telegram Group Chat 🔗
+https://t.me/+Ohyna5o7lRJjZTQ1
+
+Tags:
+python jarvis,
+python ai assistant,
+jarvis ai,
+python iron man ai,
+python ai,
+python jarvis tutorial,
+python jarvis ai,
+python ai tutorial,
+iron man jarvis,
+how to make jarvis in python,
+how to create jarvis,
+how to get jarvis,
+jarvis python,
+jarvis in python,
+python voice assistant,
+how to make jarvis,
+how to make ai in python,
+python projects,
+jarvis using python,
+kaushik shresth,
+kaushik shresth jarvis,
+
+Related searches:-
+nasa python,python nasa,explore space using python,space exploration using python,how to make jarvis in python,how to make jarvis,jarvis python,jarvis ai python,python automation,nasa python automation,home automation python,nasa python,python nasa,explore space using python,space exploration using python,how to make jarvis in python,how to make jarvis,jarvis python,jarvis ai python,python automation,nasa python automation,home automation python,python,python project ideas,space news using python,space news python,python space,nasa api python,python nasa api,gui python,python gui,kaushik shresth,jarvis,python whatsapp,python tutorials,python Jarvis ai,kaushik shresth,jarvis python,jarvis in python,jarvis,jarvis using python,python whatsapp,how to make jarvis,how to make jarvis in python,python tutorials,python Jarvis,Jarvis python,Jarvis gui,Jarvis source code,avi Upadhyay,advance Jarvis Python
+______________________________________________________________________________________
+
+Copyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.
