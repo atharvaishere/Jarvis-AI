@@ -71,3 +71,6 @@ On first run, macOS will prompt you to allow Terminal/Python to access:
 - Microphone
 - Accessibility (For Brightness & System Events)
 - Apple Events (For Safari/Chrome reading & Notes/Reminders)
+
+
+Last updated: 2026-04-24 --
