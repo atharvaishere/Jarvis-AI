@@ -79,4 +79,5 @@ On first run, macOS will prompt you to allow Terminal/Python to access:
 
 
 
-Last updated: 2026-04-30 -
+
+Last updated: 2026-05-01 →
